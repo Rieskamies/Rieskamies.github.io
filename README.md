@@ -4,7 +4,6 @@
 > Last Update:
 > 21.04.2025
 
-# Tables of content:
 - 📰 [GitHub Pages](#-website-for-projects)
 - 👾 [Gagagochi](#-gagagochi)
 - 👾 [Mining game](#-mining-game)
