@@ -5,13 +5,13 @@
 > 21.04.2025
 
 # Tables of content:
-* :newspaper: [GitHub Pages](#Projects-website)
-- :space_invader: [Gagagochi](#Gagagochi) 
-+ :pick: [A game about mining](#A-game-about-mining) 
+* 📰 [GitHub Pages](#Projects-website)
+- 👾 [Gagagochi](#Gagagochi) 
++ ⛏️ [A game about mining](#A-game-about-mining) 
 
 <br>
 
-## :newspaper: Projects website
+## 📰 Projects website
 
 - **Status:** *Forever ongoing*
 - **Repo:** *Public*
@@ -19,12 +19,12 @@
 - **Languages used:** *Markdown*
 
 ### Todo:
-- [ ] Styling if possible
-- [ ] More projects!
+- [ ]  Styling if possible
+- [ ]  More projects!
 
 <br>
 
-## :space_invader: Gagagochi
+## 👾 Gagagochi
 
 - **Status:** *Active indev*
 - **Repo:** *Private*
@@ -32,22 +32,22 @@
 - **Languages used:** *HTML, CSS, JavaScript.*
   
 ### Todo:
-- [x] HTML and CSS
-- [ ] Responsiveness for the website
-- [x] Idle animation
-- [ ] Eating animation
-- [ ] Bathing animation
-- [ ] Curing animation
-- [ ] Minigame(s) for "play" action
-- [ ] Rest animation
-- [ ] Functions for actions to do with your creature
-- [ ] Publish the repo and link it here
+- [x]  HTML and CSS
+- [ ]  Responsiveness for the website
+- [x]  Idle animation
+- [ ]  Eating animation
+- [ ]  Bathing animation
+- [ ]  Curing animation
+- [ ]  Minigame(s) for "play" action
+- [ ]  Rest animation
+- [ ]  Functions for actions to do with your creature
+- [ ]  Publish the repo and link it here
 
 ![Preview](https://github.com/user-attachments/assets/0662d381-8eeb-410d-b1be-c995134e47e0)
 
 <br>
 
-## :pick: A game about mining
+## ⛏️ A game about mining
 
 - **Status:** *Passive indev*
 - **Repo:** *None*
