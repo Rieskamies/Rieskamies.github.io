@@ -5,14 +5,13 @@
 > 21.04.2025
 
 # Tables of content:
-* 📰 [GitHub Pages](#Projects-website)
+* 📰 [GitHub Pages](#Website-for-projects)
 - 👾 [Gagagochi](#Gagagochi) 
 + ⛏️ [A game about mining](#A-game-about-mining) 
 
 <br>
 
-## 📰 Projects website
-
+## 📰 Website for projects
 - **Status:** *Forever ongoing*
 - **Repo:** *Public*
 - **Description:** *A place to keep track of my projects*
