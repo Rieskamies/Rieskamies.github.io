@@ -10,7 +10,6 @@
   
   <div style="background-color: #e6fff9; padding: 10px; border-radius: 8px; margin-top: 10px;">
     ### Project: Personal Website
-    
     Status: <strong>In Progress</strong>
     Origin: <strong>Own project</strong>
     Description: Static site powered by Markdown and GitHub Pages.
