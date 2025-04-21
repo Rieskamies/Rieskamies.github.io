@@ -1,3 +1,12 @@
+<head>
+  <style>
+    body {
+      background-color: #f5f5f5;
+    }
+  </style>
+</head>
+
+
 <div style="background-color: #1d1d1d; padding: 10px; border-radius: 8px;">
   # 🛠️ My Ongoing Projects
   
