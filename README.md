@@ -5,9 +5,9 @@
 > 21.04.2025
 
 # Tables of content:
-* 📰 [GitHub Pages](#-Website-for-projects)
-- 👾 [Gagagochi](#-Gagagochi) 
-+ ⛏️ [A game about mining](#-A-game-about-mining) 
+* 📰 [GitHub Pages](#-website-for-projects)
+- 👾 [Gagagochi](#-gagagochi) 
++ ⛏️ [A game about mining](#-a-game-about-mining) 
 
 <br>
 
