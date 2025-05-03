@@ -40,14 +40,14 @@ ________________________________________________________________
   
 ### Todo:
 - [x]  HTML and CSS
-- [ ]  Responsiveness for the website
+- [x]  Responsiveness for the website
 - [x]  Idle animation
-- [ ]  Eating animation
-- [ ]  Bathing animation
+- [x]  Eating animation
+- [x]  Bathing animation
 - [ ]  Curing animation
-- [ ]  Minigame(s) for "play" action
-- [ ]  Rest animation
-- [ ]  Functions for actions to do with your creature
+- [x]  Minigame(s) for "play" action
+- [x]  Rest animation
+- [x]  Functions for actions to do with your creature
 - [ ]  Publish the repo and link it here
 
 ![Preview](https://github.com/user-attachments/assets/0662d381-8eeb-410d-b1be-c995134e47e0)
