@@ -2,7 +2,7 @@
 # 🛠️ My Ongoing Projects
 
 > Last Update:
-> 21.04.2025
+> 04.05.2025
 
 - 📰 [GitHub Pages](#-website-for-projects)
 - 👾 [Gagagochi](#-gagagochi)
