@@ -34,7 +34,7 @@ ________________________________________________________________
 ## 👾 Gagagochi
 
 - **Status:** *Active indev*
-- **Repo:** *Private*
+- **Repo:** *![Repo](https://github.com/Rieskamies/Gagagochi)*
 - **Description:** *An imitation of the pocket game: Tamagochi, however built on a website.*
 - **Languages used:** *HTML, CSS, JavaScript.*
   
@@ -48,7 +48,7 @@ ________________________________________________________________
 - [x]  Minigame(s) for "play" action
 - [x]  Rest animation
 - [x]  Functions for actions to do with your creature
-- [ ]  Publish the repo and link it here
+- [x]  Publish the repo and link it here
 
 ![Preview](https://github.com/user-attachments/assets/0662d381-8eeb-410d-b1be-c995134e47e0)
 
